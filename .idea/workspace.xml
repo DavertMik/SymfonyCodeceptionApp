@@ -53,16 +53,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appTestDebugProjectContainer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/cache/test/appTestDebugProjectContainer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="283" max-vertical-offset="87633">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Client.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Client.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,8 +111,18 @@
       <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36206895" vertical-offset="63" max-vertical-offset="840">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.66843504" vertical-offset="42" max-vertical-offset="903">
+              <caret line="27" column="83" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SensioDistributionBundle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/SensioDistributionBundle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -605,16 +605,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/functional/PageCrudCest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#28#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Container.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5218" max-vertical-offset="11214">
@@ -907,9 +897,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/cache/test/appTestDebugProjectContainer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="283" max-vertical-offset="87633">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="84063">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1405901847193" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -984,10 +994,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/SensioDistributionBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36206895" vertical-offset="63" max-vertical-offset="840">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.66843504" vertical-offset="42" max-vertical-offset="903">
+          <caret line="27" column="83" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
           <folding />
         </state>
       </provider>
