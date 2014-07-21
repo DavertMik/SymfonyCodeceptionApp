@@ -8,6 +8,7 @@ Uses **Symfony2** module for testing. Includes
 * simple CRUD application with Doctrine
 
 Contribute to this application to introduce more sophisticated Symfony2 features and get them tested.
+Tests located in [tests/functional](https://github.com/DavertMik/SymfonyCodeceptionApp/tree/master/tests/functional) directory
 
 ## Running Tests
 
