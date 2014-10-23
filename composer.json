@@ -21,7 +21,8 @@
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3",
-        "codeception/codeception": ">=2.0.3"
+        "codeception/codeception": ">=2.0.3",
+        "league/factory-muffin": "~2.0"
     },
     "scripts": {
         "post-root-package-install": [

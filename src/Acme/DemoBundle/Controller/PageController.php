@@ -29,7 +29,7 @@ class PageController extends Controller
     {
         $em = $this->getDoctrine()->getManager();
 
-        $entities = $em->getRepository('AcmeDemoBundle:Page')->findAll();
+        $entities = $em->getRepository('AcmeDemoBundle:Page')->findBy(array(), null, 20);
 
         return array(
             'entities' => $entities,
